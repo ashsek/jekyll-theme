@@ -1,12 +1,12 @@
 # Site
 title:              Ashwin Sekhari
-bio:                'bla bla bla'
-description:        "yoyoyoy"
+bio:                'I am a First Year UG student studying Computer Science and Engineering at NIT Rourkela.'
+description:        "About Ashwin"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ashsek.github.io
 
