@@ -1,24 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Ashwin
+tags: [about, ashwin, python, mac, os]
+date: 2018-01-18
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>"The meaning of life is to find your gift, the purpose is to give it away"</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Introduction
+I am a first year undergraduate student studying Computer Science and Engineering at National Institute of Technology Rourkela.I am Intrested in Python development and easily adaptable to other programming languages.
+
+Being a first year, I may not have all the relevant skills and experience that you require from me but I am an extremely motivated programmer.I can learn new things easily and can adapt to new environments with an ease.
+
+The best thing about me is that if I am given a new thing, I want to learn more about it by exploring.Having all the skills but not having the will to learn new things is worth nothing and I know that my will to learn and perform will never go away.
 
 ## Preview
 
