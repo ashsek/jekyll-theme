@@ -1,7 +1,7 @@
 # Site
 title:              Ashwin Sekhari
 bio:                'I am a First Year UG student studying Computer Science and Engineering at NIT Rourkela.'
-description:        "About Ashwin"
+description:        "About Ashwin Sekhari"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -30,9 +30,9 @@ disqus_shortname:   ashsek
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-111452540-2
   #verify:
   #ad-client:
   #ad-slot:
