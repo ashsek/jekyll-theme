@@ -1,4 +1,4 @@
-Thank you for downloading a favicon from Free Favicon! This favicon was created from an image at http://openclipart.org/ and converted to a favicon and other sizes for you to use in your projects. For more details about this image visit this page: https://openclipart.org/detail/185058/Business%20man%20avatar%20vector
+Thank you for downloading a favicon from Free Favicon! This favicon was created from an image at http://openclipart.org/ and converted to a favicon and other sizes for you to use in your projects. For more details about this image visit this page: https://openclipart.org/detail/246266/code-break
 
 For more infomation about how you can use this image from OpenClipArt see this page: http://openclipart.org/may-clipart-be-used-comparison
 
